@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65980383518",
+    "project_id": "lojaflutter-a2f24",
+    "storage_bucket": "lojaflutter-a2f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65980383518:android:11c19d31afc0e754ce490f",
+        "android_client_info": {
+          "package_name": "pimenta.tec.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65980383518-7i4omof65v4au9prmligf6nu7gtnuq2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjFD1C6L1xnr7b1N6BSCHr71YXlPnJCSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65980383518-7i4omof65v4au9prmligf6nu7gtnuq2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
